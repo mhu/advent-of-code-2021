@@ -13,7 +13,7 @@ def puzzle1() -> None:
         if current > report[index - 1]:
             counter += 1
 
-    print(f'Number of measurement increments: {counter}')
+    print(f'[Puzzle 1] Number of measurement increments: {counter}')
 
 
 def get_group_sum(start_index) -> int:
@@ -37,7 +37,7 @@ def puzzle2() -> None:
 
         previous_group = current_group
 
-    print(f'Number of group increments: {counter}')
+    print(f'[Puzzle 2] Number of group increments: {counter}')
 
 
 if __name__ == '__main__':
