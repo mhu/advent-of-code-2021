@@ -5,3 +5,4 @@ My submissions for the [Advent of Code 2021](https://adventofcode.com/2021) chal
 | Day  | Stars | Link           |
 | ---- | ----- | -------------- |
 | 1    | **    | [Link](day-01) |
+| 2    | **    | [Link](day-02) |
